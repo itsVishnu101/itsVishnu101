@@ -1,11 +1,10 @@
 # Hi, I'm Vishnu Verma 👋
 
 
-<center>
-
+<div align="center">
 [![Vishnu Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight)](https://github.com/itsVishnu101)
 
-
+<br>
 
 ### 🔥 Streak & Contribution Calendar
 
@@ -13,7 +12,7 @@
 
 
 
-</center>
+</div>
 
 
 > B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
