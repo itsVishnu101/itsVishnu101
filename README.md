@@ -25,7 +25,7 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 | Area | Technologies |
 | :--- | :--- |
 | **Programming** | Python, C/C++, MATLAB, JavaScript |
-| **Specialized** | [cite_start]Signal Processing, VLSI Design, Computer Vision (OpenCV), IoT Systems (Arduino, Raspberry Pi, MQTT) [cite: 37, 35] |
+| **Specialized** | Signal Processing, VLSI Design, Computer Vision (OpenCV), IoT Systems (Arduino, Raspberry Pi, MQTT) |
 | **Tools/Frameworks** | Git, TensorFlow, ReactJS, Node.js, Simulink, LTspice |
 
 
