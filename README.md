@@ -22,20 +22,11 @@
 
 I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical learning in **Embedded Systems, Signal Processing, Computer Vision, and VLSI Design** to hands-on projects and professional innovation.
 
-## 🛠️ Technical Skills
-
-
-
 | Area | Technologies |
-
 | :--- | :--- |
-
 | **Programming** | Python, C/C++, MATLAB, JavaScript |
-
-| **Specialized** | Signal Processing, VLSI Design, Computer Vision (OpenCV), IoT Systems (Arduino, Raspberry Pi, MQTT) |
-
+| **Specialized** | [cite_start]Signal Processing, VLSI Design, Computer Vision (OpenCV), IoT Systems (Arduino, Raspberry Pi, MQTT) [cite: 37, 35] |
 | **Tools/Frameworks** | Git, TensorFlow, ReactJS, Node.js, Simulink, LTspice |
-
 
 
 ## 💡 Featured Projects
