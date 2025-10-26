@@ -1,5 +1,8 @@
 # Hi, I'm Vishnu Verma 👋
 
+
+<center>
+
 [![Vishnu Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight)](https://github.com/itsVishnu101)
 
 
@@ -10,6 +13,7 @@
 
 
 
+</center>
 
 
 > B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
