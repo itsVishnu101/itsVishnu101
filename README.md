@@ -4,8 +4,6 @@
 <div align="center">
   
 [![Vishnu Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight)](https://github.com/itsVishnu101)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsVishnu101&layout=compact&theme=tokyonight)](https://github.com/itsVishnu101)
 
 <br>
 
@@ -14,6 +12,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=itsVishnu101&theme=tokyonight)](https://git.io/streak-stats)
 
 
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsVishnu101&layout=compact&theme=tokyonight)](https://github.com/itsVishnu101)
 
 </div>
 
