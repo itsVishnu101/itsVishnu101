@@ -23,6 +23,13 @@
 
 </div>
 
+## 🏅 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-badge-generator.vercel.app/api/badges?username=itsVishnu101&theme=tokyonight" alt="GitHub Achievements" />
+</div>
+
+<br>
 
 > B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
 
