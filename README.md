@@ -4,18 +4,13 @@
 <div align="center">
   
 [![Vishnu Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight)](https://github.com/itsVishnu101)
-  
+
 <br>
 
 ### 🔥 Streak & Contribution Calendar
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=itsVishnu101&theme=tokyonight)](https://git.io/streak-stats)
 
-<br>
-
-### 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsVishnu101&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
@@ -23,13 +18,6 @@
 
 </div>
 
-## 🏅 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-badge-generator.vercel.app/api/badges?username=itsVishnu101&theme=tokyonight" alt="GitHub Achievements" />
-</div>
-
-<br>
 
 > B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
 
