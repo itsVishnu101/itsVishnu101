@@ -4,13 +4,18 @@
 <div align="center">
   
 [![Vishnu Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight)](https://github.com/itsVishnu101)
-
+  
 <br>
 
 ### 🔥 Streak & Contribution Calendar
 
 [![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=itsVishnu101&theme=tokyonight)](https://git.io/streak-stats)
 
+<br>
+
+### 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=itsVishnu101&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
