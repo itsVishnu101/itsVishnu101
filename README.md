@@ -9,7 +9,7 @@
 
 ### 🔥 Streak & Contribution Calendar
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsVishnu101&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app/?user=itsVishnu101&theme=tokyonight)](https://git.io/streak-stats)
 
 
 <br>
@@ -55,4 +55,3 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 ### Connect with me:
 
 [LinkedIn](https://www.linkedin.com/in/its-vishnu-verma/) | [Email](mailto:ui22ec86@iiitsurat.ac.in)
-
