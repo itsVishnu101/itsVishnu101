@@ -48,20 +48,6 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 
 * **Certified:** Google Gen AI (Google Cloud), Career Essentials in Generative AI (Microsoft/LinkedIn).
 
- ### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/its-vishnu-verma/)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&labelColor=D14836&logoColor=white)](mailto:ui22ec86@iiitsurat.ac.in)
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/LinkedIn_logo_PNG7.png/300px-LinkedIn_logo_PNG7.png" alt="LinkedIn" width="100"/>
-</a>
-<a href="mailto:ui22ec86@iiitsurat.ac.in" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg" alt="Email" width="100"/>
-</a>
-
 
 ### Connect with me:
 
@@ -71,33 +57,8 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?stle=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?stle=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:ui22ec86@iiitsurat.ac.in" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-D14836?stle=for-the-badge&logo=gmail&logoColor=red" alt="Email"/>
+  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/its-vishnu-verma/)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&labelColor=D14836&logoColor=white)](mailto:ui22ec86@iiitsurat.ac.in)
-
-### Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/its-vishnu-verma/)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&labelColor=D14836&logoColor=white)](mailto:ui22ec86@iiitsurat.ac.in)
-
-
-### Connect with me:
-
-<p>
-  <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank" style="text-decoration: none; display: inline-block; padding: 10px 20px; background-color: #0077B5; color: white; border-radius: 6px; font-weight: bold; font-family: sans-serif; margin-right: 10px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" alt="LinkedIn" width="18" style="vertical-align: middle; margin-right: 8px; filter: invert(100%);">
-    LINKEDIN
-  </a>
-  <a href="mailto:ui22ec86@iiitsurat.ac.in" target="_blank" style="text-decoration: none; display: inline-block; padding: 10px 20px; background-color: #D14836; color: white; border-radius: 6px; font-weight: bold; font-family: sans-serif;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Email" width="18" style="vertical-align: middle; margin-right: 8px; filter: invert(100%);">
-    EMAIL
-  </a>
-</p>
