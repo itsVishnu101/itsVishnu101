@@ -51,5 +51,5 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/its-vishnu-verma/)
-[![Email](https://img.shields.io/badge/Email-Mail%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:ui22ec86@iiitsurat.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/its-vishnu-verma/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:ui22ec86@iiitsurat.ac.in)
