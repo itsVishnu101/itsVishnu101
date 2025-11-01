@@ -47,7 +47,8 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 * **Qualified GATE 2025** in Electronics and Communication Engineering (ECE).
 
 * **Certified:** Google Gen AI (Google Cloud), Career Essentials in Generative AI (Microsoft/LinkedIn).
-### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/its-vishnu-verma/)
+ ### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&labelColor=0077B5&logoColor=white)](https://www.linkedin.com/in/its-vishnu-verma/)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&labelColor=D14836&logoColor=white)](mailto:ui22ec86@iiitsurat.ac.in)
