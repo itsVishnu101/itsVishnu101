@@ -19,9 +19,6 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/github-stats-banner.png" width="800" style="border-radius:10px;">
-</p>
 
 <p align="center">
   <a href="https://github.com/itsVishnu101">
@@ -29,7 +26,7 @@
   </a>
 </p>
 
-### 🔥 Streak & Contribution Calendar
+## 🔥 Streak & Contribution Calendar
 
 <p align="center">
   <a href="https://git.io/streak-stats">
