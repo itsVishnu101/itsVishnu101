@@ -2,16 +2,13 @@
 > B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="350"/>
 </p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center" style="margin:0; padding:0;">
-  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/github-stats-banner.png" width="740" style="border-radius:10px; margin:0; padding:0;">
-</p>
 
 <p align="center" style="margin:0; padding:0;">
   <a href="https://github.com/itsVishnu101">
