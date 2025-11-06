@@ -16,6 +16,7 @@
 </p>
 
 <hr style="border: 1px solid #333;">
+
 [![Vishnu Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight)](https://github.com/itsVishnu101)
 
 <br>
