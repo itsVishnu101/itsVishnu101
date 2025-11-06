@@ -3,11 +3,10 @@
 
 ---
 
-<div align="center" style="padding:0; margin:0;">
-  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="550" style="border-radius:12px; box-shadow:0 0 12px rgba(0,0,0,0.4); display:block; margin:0;">
-</div>
+<p align="center" style="margin:0; padding:0;">
+  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="550" style="display:block; margin:0; padding:0; border-radius:12px; box-shadow:0 0 12px rgba(0,0,0,0.4);">
+</p>
 
-<hr style="border: 1px solid #333; margin:0; padding:0;">
 
 ## 📊 GitHub Statistics
 
