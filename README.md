@@ -13,14 +13,30 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsVishnu101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="360" />
+## 📊 GitHub Insights
+
+<p align="center" style="border:2px solid rgba(255,255,255,0.15); border-radius:12px; padding:15px; width:fit-content; margin:auto; box-shadow: 0 0 10px rgba(90,150,255,0.3);">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="420" />
 </p>
 
-<p align="center">
+<br>
 
+<p align="center" style="border:2px solid rgba(255,255,255,0.15); border-radius:12px; padding:15px; width:fit-content; margin:auto; box-shadow: 0 0 10px rgba(255,255,255,0.1);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsVishnu101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="420" />
+</p>
+
+<br>
+
+<p align="center" style="border:2px solid rgba(255,255,255,0.15); border-radius:12px; padding:15px; width:fit-content; margin:auto; box-shadow: 0 0 10px rgba(255,255,255,0.1);">
   <img src="https://git-hub-streak-stats.vercel.app/?user=itsVishnu101&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B81&currStreakLabel=58A6FF" alt="GitHub Streak" width="600" />
+</p>
+
+---
+
+## 📈 Recent Activity Graph  
+
+<p align="center" style="border:2px solid rgba(255,255,255,0.15); border-radius:12px; padding:15px; width:fit-content; margin:auto; box-shadow: 0 0 10px rgba(90,150,255,0.3);">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsVishnu101&theme=tokyo-night&hide_border=true&area=true&custom_title=Vishnu%20Verma's%20Contribution%20Graph" alt="Activity Graph" width="850" />
 </p>
 
 ---
@@ -69,6 +85,4 @@ Created an AI chatbot using **Google Gemini API, React, and JavaScript** for con
 
 ---
 
-<p align="center">
-  <sub>⚡ Designed with purpose & passion by <strong>Vishnu Verma</strong> ⚡</sub>
-</p>
+<p
