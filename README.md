@@ -1,29 +1,28 @@
 # Hi, I'm Vishnu Verma 👋  
 > B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
-
 ---
 
-<p align="center" style="margin-top: -25px; margin-bottom: -25px;">
-  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="550" style="border-radius:12px; box-shadow: 0 0 15px rgba(0,0,0,0.4); margin: 0;">
+<p align="center" style="margin: -35px 0 -35px 0;">
+  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="550" style="border-radius:12px; box-shadow: 0 0 12px rgba(0,0,0,0.3); margin:0;">
 </p>
 
-<p align="center" style="margin-top: -10px; margin-bottom: -10px;">
-  <img src="https://camo.githubusercontent.com/d2cb58e5c621f04160bdcea76d884f25c58830cd28be8560d3999665e4fe890b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966" width="500" style="border-radius:10px; box-shadow: 0 0 12px rgba(0,0,0,0.3); margin: 0;">
+<p align="center" style="margin: -25px 0 -25px 0;">
+  <img src="https://camo.githubusercontent.com/d2cb58e5c621f04160bdcea76d884f25c58830cd28be8560d3999665e4fe890b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966" width="480" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.25); margin:0;">
 </p>
 
-<p align="center" style="margin-top: -20px; margin-bottom: -20px;">
-  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="700" style="border-radius:10px; margin: 0;">
+<p align="center" style="margin: -30px 0 -30px 0;">
+  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="700" style="border-radius:10px; margin:0;">
 </p>
 
-<hr style="border: 1px solid #333;">
+<hr style="border: 1px solid #333; margin: -10px 0 -5px 0;">
 
 ## 📊 GitHub Statistics
 
-<p align="center" style="margin-top: -10px; margin-bottom: -10px;">
-  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/github-stats-banner.png" width="750" style="border-radius:10px; margin: 0;">
+<p align="center" style="margin: -10px 0 -10px 0;">
+  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/github-stats-banner.png" width="740" style="border-radius:10px; margin:0;">
 </p>
 
-<p align="center">
+<p align="center" style="margin: -5px 0 -5px 0;">
   <a href="https://github.com/itsVishnu101">
     <img src="https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight" alt="Vishnu Verma's GitHub Stats">
   </a>
@@ -31,13 +30,13 @@
 
 ### 🔥 Streak & Contribution Calendar
 
-<p align="center">
+<p align="center" style="margin: -5px 0 -5px 0;">
   <a href="https://git.io/streak-stats">
     <img src="https://git-hub-streak-stats.vercel.app/?user=itsVishnu101&theme=tokyonight" alt="GitHub Streak">
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="margin: -5px 0 -5px 0;">
   <a href="https://github.com/itsVishnu101">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsVishnu101&layout=compact&theme=tokyonight" alt="Top Languages">
   </a>
@@ -61,7 +60,7 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 * **Certified:** Google Gen AI (Google Cloud), Career Essentials in Generative AI (Microsoft/LinkedIn).
 
 ### Connect with me:
-<p align="center">
+<p align="center" style="margin: -5px 0 -10px 0;">
   <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
