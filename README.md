@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="600" style="border-radius:12px; box-shadow: 0 0 20px rgba(0,0,0,0.5);">
+  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="650" style="border-radius:12px; box-shadow: 0 0 20px rgba(0,0,0,0.5);">
 </p>
 
 <p align="center">
