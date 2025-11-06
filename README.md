@@ -17,6 +17,12 @@
 
 <hr style="border: 1px solid #333;">
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/github-stats-banner.png" width="800" style="border-radius:10px;">
+</p>
+
 <p align="center">
   <a href="https://github.com/itsVishnu101">
     <img src="https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight" alt="Vishnu Verma's GitHub Stats">
