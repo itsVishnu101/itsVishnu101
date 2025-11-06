@@ -1,6 +1,5 @@
 # Hi, I'm Vishnu Verma 👋
 > B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="800">
 </p>
