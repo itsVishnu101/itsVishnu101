@@ -34,15 +34,13 @@
 
 ## Recent Activity Graph
 
-<!-- Animated contribution graph by Ashutosh00710. 
-     Make sure you have GitHub Actions enabled and check the project's README for setup instructions:
-     https://github.com/Ashutosh00710/github-readme-activity-graph
--->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsVishnu101&theme=react-dark" alt="activity graph"/>
 </p>
 
 ---
+
+## About Me
 I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical learning in **Embedded Systems, Signal Processing, Computer Vision, and VLSI Design** to hands-on projects and professional innovation.
 
 | Area | Technologies |
