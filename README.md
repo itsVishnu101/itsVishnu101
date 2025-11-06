@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Coding Animation](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+![Coding Animation]([https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://camo.githubusercontent.com/d2cb58e5c621f04160bdcea76d884f25c58830cd28be8560d3999665e4fe890b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966))
 
   
 [![Vishnu Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight)](https://github.com/itsVishnu101)
