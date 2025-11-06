@@ -20,7 +20,6 @@
 ## 📊 GitHub Statistics
 
 <p align="center" style="margin-top: -5px; margin-bottom: -5px;">
-  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/github-stats-banner.png" width="750" style="border-radius:10px;">
 </p>
 
 <p align="center">
