@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-  <br> 
-  ### 🔥 Streak & Contribution Calendar
+
   <img src="https://git-hub-streak-stats.vercel.app/?user=itsVishnu101&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B81&currStreakLabel=58A6FF" alt="GitHub Streak" width="600" />
 </p>
 
