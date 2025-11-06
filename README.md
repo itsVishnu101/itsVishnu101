@@ -29,6 +29,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsVishnu101&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/itsVishnu101)
 
+---
+
+### 📈 Recent Activity Graph
+
+[![Vishnu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsVishnu101&theme=tokyo-night&hide_border=true&area=true&custom_title=Vishnu%20Verma's%20Contribution%20Graph)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
@@ -55,8 +61,7 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 
 ## 🎓 Education & Achievements
 
-* **Qualified GATE 2025** in Electronics and Communication Engineering (ECE).
-
+* **Qualified GATE 2025** in Electronics and Communication Engineering (ECE).  
 * **Certified:** Google Gen AI (Google Cloud), Career Essentials in Generative AI (Microsoft/LinkedIn).
 
 ---
