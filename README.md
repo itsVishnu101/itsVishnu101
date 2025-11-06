@@ -1,4 +1,5 @@
 # Hi, I'm Vishnu Verma 👋
+> B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
 
 
 <div align="center">
@@ -22,7 +23,6 @@
 </div>
 
 
-> B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
 
 
 
