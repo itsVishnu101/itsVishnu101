@@ -4,13 +4,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="800">
 </p>
-
 <hr style="border: 1px solid #333;">
 
 <div align="center">
-
+  
 ![Coding Animation](https://camo.githubusercontent.com/d2cb58e5c621f04160bdcea76d884f25c58830cd28be8560d3999665e4fe890b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="800">
 </p>
