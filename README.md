@@ -1,10 +1,10 @@
 # Hi, I'm Vishnu Verma 👋  
 > B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
-
+---
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </p>
-
+---
 ## 📊 GitHub Statistics
 
 <p align="center" style="margin:0; padding:0;">
