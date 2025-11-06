@@ -2,6 +2,9 @@
 
 
 <div align="center">
+
+![Coding Animation](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+
   
 [![Vishnu Verma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight)](https://github.com/itsVishnu101)
 
