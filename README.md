@@ -3,23 +3,24 @@
 
 ---
 
+<p align="center" style="margin-top: -25px; margin-bottom: -25px;">
+  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="550" style="border-radius:12px; box-shadow: 0 0 15px rgba(0,0,0,0.4); margin: 0;">
+</p>
+
 <p align="center" style="margin-top: -10px; margin-bottom: -10px;">
-  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="550" style="border-radius:12px; box-shadow: 0 0 15px rgba(0,0,0,0.4);">
+  <img src="https://camo.githubusercontent.com/d2cb58e5c621f04160bdcea76d884f25c58830cd28be8560d3999665e4fe890b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966" width="500" style="border-radius:10px; box-shadow: 0 0 12px rgba(0,0,0,0.3); margin: 0;">
 </p>
 
-<p align="center" style="margin-top: -5px; margin-bottom: -5px;">
-  <img src="https://camo.githubusercontent.com/d2cb58e5c621f04160bdcea76d884f25c58830cd28be8560d3999665e4fe890b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f663369774a464f564f777579374b364646772f67697068792e676966" width="500" style="border-radius:10px; box-shadow: 0 0 12px rgba(0,0,0,0.3);">
-</p>
-
-<p align="center" style="margin-top: -5px; margin-bottom: -5px;">
-  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="700" style="border-radius:10px;">
+<p align="center" style="margin-top: -20px; margin-bottom: -20px;">
+  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/dark-dev.gif" width="700" style="border-radius:10px; margin: 0;">
 </p>
 
 <hr style="border: 1px solid #333;">
 
 ## 📊 GitHub Statistics
 
-<p align="center" style="margin-top: -5px; margin-bottom: -5px;">
+<p align="center" style="margin-top: -10px; margin-bottom: -10px;">
+  <img src="https://raw.githubusercontent.com/itsVishnu101/itsVishnu101/main/assets/github-stats-banner.png" width="750" style="border-radius:10px; margin: 0;">
 </p>
 
 <p align="center">
