@@ -59,6 +59,7 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 * **Certified:** Google Gen AI (Google Cloud), Career Essentials in Generative AI (Microsoft/LinkedIn).
 
 ### Connect with me:
+
 <p align="center" style="margin:0;">
   <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
