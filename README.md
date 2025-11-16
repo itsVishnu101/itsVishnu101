@@ -74,3 +74,10 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=itsVishnu101.itsVishnu101)
+
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=itsVishnu101&color=0A66C2&style=flat-square" />
+  &nbsp;&nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=itsVishnu101.itsVishnu101" />
+</p>
