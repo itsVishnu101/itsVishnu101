@@ -70,35 +70,4 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 </p>
 
 
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=its-vishnu-verma.its-vishnu-verma)](https://github.com/its-vishnu-verma)
-
-
-<!-- Shields + Komarev -->
-[![Profile Views](https://img.shields.io/static/v1?label=Profile%20Views&message=`$(curl -s https://komarev.com/ghpvc/?username=its-vishnu-verma)`&color=0A66C2)](https://github.com/its-vishnu-verma)
-
-
-[![Profile Views](https://komarev.com/ghpvc/?username=its-vishnu-verma&style=flat&color=blue)](https://github.com/its-vishnu-verma)
-
-
-
-<p align="left">
-  <!-- Profile views -->
-  <a href="https://github.com/its-vishnu-verma" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=its-vishnu-verma&style=flat-square&color=0A66C2" alt="profile views" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <!-- Visitor badge (glitch) -->
-  <a href="https://github.com/its-vishnu-verma" target="_blank">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=its-vishnu-verma.its-vishnu-verma" alt="visitor count" />
-  </a>
-
-  &nbsp;&nbsp;
-
-  <!-- LinkedIn button example next to counters -->
-  <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
- 
+![Profile Views](https://komarev.com/ghpvc/?username=itsVishnu101&color=0A66C2&style=flat-square)
