@@ -40,15 +40,46 @@
 
 ---
 
-## About Me
-I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical learning in **Embedded Systems, Signal Processing, Computer Vision, and VLSI Design** to hands-on projects and professional innovation.
 
-| Area | Technologies |
-| :--- | :--- |
-| **Programming** | Python, C/C++, MATLAB, JavaScript |
-| **Specialized** | Signal Processing, VLSI Design, Computer Vision (OpenCV), IoT Systems (Arduino, Raspberry Pi, MQTT) |
-| **Tools/Frameworks** | Git, TensorFlow, ReactJS, Node.js, Simulink, LTspice |
+## ⭐ About Me
+I am an **aspiring Electronics & Communication (ECE) engineer** passionate about designing and building end-to-end systems that blend hardware and software.  
+My main interests include **Embedded Systems, Signal Processing, Computer Vision (ML), and VLSI Design**. I enjoy turning academic concepts into practical projects — from sensors and microcontrollers to ML pipelines and simulations.
 
+---
+
+## 🚀 Quick Links
+- GitHub: [itsVishnu101](https://github.com/itsVishnu101)  
+- Email: `your.email@example.com`  
+- LinkedIn: `https://www.linkedin.com/in/yourprofile`  
+*(Replace above links with your own)*
+
+---
+
+## 🏷️ Profile Badges
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/LTspice-B7410E?logo=analogdevices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-173D5C?logo=opencv&logoColor=white" />
+</p>
+
+---
+
+## 🧰 Skills & Technologies
+
+### Technologies Overview (table)
+| **Area** | **Details / Tools** |
+|---|---|
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) &nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) &nbsp; ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white) |
+| **Frontend / UI** | ![ReactJS](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) &nbsp; HTML, CSS, JS |
+| **Embedded / IoT** | Arduino, Raspberry Pi, ESP32, MQTT, Serial Protocols |
+| **Computer Vision / ML** | OpenCV, TensorFlow, PyTorch, Keras, Model Quantization |
+| **Simulation / EDA** | LTspice, SPICE, Simulink, Cadence/Verilog (VLSI basics) |
+| **Tools** | Git, Docker (basics), VSCode, Jupyter, GIT workflows |
 
 ---
 
