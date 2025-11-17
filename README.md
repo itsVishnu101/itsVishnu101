@@ -47,13 +47,6 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 
 ---
 
-## 🚀 Quick Links
-- GitHub: [itsVishnu101](https://github.com/itsVishnu101)  
-- Email: `your.email@example.com`  
-- LinkedIn: `https://www.linkedin.com/in/yourprofile`  
-*(Replace above links with your own)*
-
----
 
 ## 🏷️ Profile Badges
 <p align="left">
@@ -77,9 +70,9 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 | **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) &nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white) &nbsp; ![MATLAB](https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white) |
 | **Frontend / UI** | ![ReactJS](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) &nbsp; HTML, CSS, JS |
 | **Embedded / IoT** | Arduino, Raspberry Pi, ESP32, MQTT, Serial Protocols |
-| **Computer Vision / ML** | OpenCV, TensorFlow, PyTorch, Keras, Model Quantization |
-| **Simulation / EDA** | LTspice, SPICE, Simulink, Cadence/Verilog (VLSI basics) |
-| **Tools** | Git, Docker (basics), VSCode, Jupyter, GIT workflows |
+| **Computer Vision / ML** | OpenCV, TensorFlow, PyTorch, Model Quantization |
+| **Simulation / EDA** | LTspice, SPICE, Simulink, Verilog (VLSI basics) |
+| **Tools** | Git, VSCode, Jupyter, GIT workflows |
 
 ---
 
