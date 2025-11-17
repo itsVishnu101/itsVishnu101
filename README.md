@@ -49,6 +49,42 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 | **Specialized** | Signal Processing, VLSI Design, Computer Vision (OpenCV), IoT Systems (Arduino, Raspberry Pi, MQTT) |
 | **Tools/Frameworks** | Git, TensorFlow, ReactJS, Node.js, Simulink, LTspice |
 
+Got it — your friend’s style is **clean**, uses **icons**, **bold highlights**, and **multi-line indented descriptions**.
+Here is your **Featured Projects** section rewritten in the *same style*, matching the exact layout, spacing, indentation, and vibe.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 **IoT-Based Vertical Farming**
+
+> Prototyped an IoT-enabled smart farming system using **Arduino, Raspberry Pi**, and **OpenCV**
+> Designed to detect **ripeness levels** of saffron and mushrooms using image analysis
+> Integrated sensors + vision pipeline to improve farm monitoring accuracy
+> 📌 Demonstrated strong skills in IoT, embedded systems, and image processing
+
+---
+
+### 🚦 **Traffic Signal Detection**
+
+> Built a real-time traffic light detection system using **Python** and **OpenCV**
+> Implemented preprocessing, color-space filtering, contour detection, and feature extraction
+> Optimized detection pipeline for improved accuracy and stability
+> 🔍 Hands-on experience in computer vision, real-time processing, and model tuning
+
+---
+
+### 🤖 **AI Chatbot**
+
+> Developed an intelligent, responsive chatbot using the **Google Gemini API**, **React**, and **JavaScript**
+> Implemented conversation flow, API handling, and real-time message updates
+> Designed a clean UI with dynamic responses and error handling
+> 💬 Built to demonstrate modern full-stack + AI integration skills
+
+---
+
+If you want, I can **add emojis**, **change colors**, or **match it 100% pixel-perfect** like your friend's.
+
 ## 💡 Featured Projects
 * **IoT-Based Vertical Farming:** Prototyped a smart farming system using **Arduino, Raspberry Pi, and OpenCV** to detect ripeness levels of saffron and mushrooms, showcasing skills in IoT and Image Analysis.
 * **Traffic Signal Detection:** Built a real-time system using **Python and OpenCV** for preprocessing, contour detection, and feature extraction.
