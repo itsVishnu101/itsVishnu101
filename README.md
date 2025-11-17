@@ -47,21 +47,6 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 
 ---
 
-
-## 🏷️ Profile Badges
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/LTspice-B7410E?logo=analogdevices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-173D5C?logo=opencv&logoColor=white" />
-</p>
-
----
-
 ## 🧰 Skills & Technologies
 
 ### Technologies Overview (table)
