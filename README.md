@@ -66,8 +66,11 @@ Here is your *fixed, cleaner, less-wide* version — **exact same style** as you
 ### 🌱 **IoT-Based Vertical Farming**
 
 > Prototyped an IoT-enabled smart farming system using **Arduino, Raspberry Pi**, and **OpenCV**
+> 
 > Designed a vision-based module to detect **ripeness levels** of saffron and mushrooms
+> 
 > Integrated sensors + image analysis for accurate farm monitoring
+> 
 > 📌 Demonstrated strong skills in IoT, embedded systems, and image processing
 
 
@@ -75,6 +78,7 @@ Here is your *fixed, cleaner, less-wide* version — **exact same style** as you
 ### 🚦 **Traffic Signal Detection**
 
 > Built a real-time traffic light detection system using **Python** and **OpenCV**
+
 > Implemented preprocessing, color-space filtering, and contour detection
 > Optimized the pipeline for improved accuracy and stability
 > 🔍 Hands-on experience in computer vision, real-time processing, and model tuning
