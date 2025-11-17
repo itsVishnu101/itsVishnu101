@@ -42,7 +42,7 @@
 
 
 ## ⭐ About Me
-I am an **aspiring Electronics & Communication (ECE) engineer** passionate about designing and building end-to-end systems that blend hardware and software.  
+I am an **aspiring Electronics & Communication engineer** passionate about designing and building end-to-end systems that blend hardware and software.  
 My main interests include **Embedded Systems, Signal Processing, Computer Vision (ML), and VLSI Design**. I enjoy turning academic concepts into practical projects — from sensors and microcontrollers to ML pipelines and simulations.
 
 ---
