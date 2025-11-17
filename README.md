@@ -54,13 +54,20 @@ Here is your **Featured Projects** section rewritten in the *same style*, matchi
 
 ---
 
+Your lines look *too wide* because everything is written in **one long paragraph**.
+Your friend uses **short, separated bullet-like lines**, each starting on a new line with a clean break.
+
+Here is your *fixed, cleaner, less-wide* version — **exact same style** as your friend.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🌱 **IoT-Based Vertical Farming**
 
 > Prototyped an IoT-enabled smart farming system using **Arduino, Raspberry Pi**, and **OpenCV**
-> Designed to detect **ripeness levels** of saffron and mushrooms using image analysis
-> Integrated sensors + vision pipeline to improve farm monitoring accuracy
+> Designed a vision-based module to detect **ripeness levels** of saffron and mushrooms
+> Integrated sensors + image analysis for accurate farm monitoring
 > 📌 Demonstrated strong skills in IoT, embedded systems, and image processing
 
 ---
@@ -68,8 +75,8 @@ Here is your **Featured Projects** section rewritten in the *same style*, matchi
 ### 🚦 **Traffic Signal Detection**
 
 > Built a real-time traffic light detection system using **Python** and **OpenCV**
-> Implemented preprocessing, color-space filtering, contour detection, and feature extraction
-> Optimized detection pipeline for improved accuracy and stability
+> Implemented preprocessing, color-space filtering, and contour detection
+> Optimized the pipeline for improved accuracy and stability
 > 🔍 Hands-on experience in computer vision, real-time processing, and model tuning
 
 ---
@@ -77,13 +84,19 @@ Here is your **Featured Projects** section rewritten in the *same style*, matchi
 ### 🤖 **AI Chatbot**
 
 > Developed an intelligent, responsive chatbot using the **Google Gemini API**, **React**, and **JavaScript**
-> Implemented conversation flow, API handling, and real-time message updates
-> Designed a clean UI with dynamic responses and error handling
-> 💬 Built to demonstrate modern full-stack + AI integration skills
+> Implemented conversation flow, API handling, and real-time messaging
+> Designed a clean, modern UI with dynamic responses
+> 💬 Showcases full-stack development + AI integration skills
 
 ---
 
-If you want, I can **add emojis**, **change colors**, or **match it 100% pixel-perfect** like your friend's.
+If you want, I can also:
+
+✅ add left-side vertical bars exactly like your friend
+✅ match their font style and spacing even more
+✅ add subtle icons per line
+Just tell me!
+
 
 ## 💡 Featured Projects
 * **IoT-Based Vertical Farming:** Prototyped a smart farming system using **Arduino, Raspberry Pi, and OpenCV** to detect ripeness levels of saffron and mushrooms, showcasing skills in IoT and Image Analysis.
