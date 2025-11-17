@@ -83,9 +83,9 @@ Here is your *fixed, cleaner, less-wide* version — **exact same style** as you
 
 #### 🤖 **AI Chatbot**
 
-> Developed an intelligent, responsive chatbot using the **Google Gemini API**, **React**, and **JavaScript**
-> Implemented conversation flow, API handling, and real-time messaging
-> Designed a clean, modern UI with dynamic responses
+> Developed an intelligent, responsive chatbot using the **Google Gemini API**, **React**, and **JavaScript**  
+> Implemented conversation flow, API handling, and real-time messaging  
+> Designed a clean, modern UI with dynamic responses  
 > 💬 Showcases full-stack development + AI integration skills
 
 
