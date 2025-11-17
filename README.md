@@ -49,15 +49,6 @@ I am an **aspiring ECE engineer** seeking opportunities to apply my theoretical 
 | **Specialized** | Signal Processing, VLSI Design, Computer Vision (OpenCV), IoT Systems (Arduino, Raspberry Pi, MQTT) |
 | **Tools/Frameworks** | Git, TensorFlow, ReactJS, Node.js, Simulink, LTspice |
 
-Got it — your friend’s style is **clean**, uses **icons**, **bold highlights**, and **multi-line indented descriptions**.
-Here is your **Featured Projects** section rewritten in the *same style*, matching the exact layout, spacing, indentation, and vibe.
-
----
-
-Your lines look *too wide* because everything is written in **one long paragraph**.
-Your friend uses **short, separated bullet-like lines**, each starting on a new line with a clean break.
-
-Here is your *fixed, cleaner, less-wide* version — **exact same style** as your friend.
 
 ---
 
