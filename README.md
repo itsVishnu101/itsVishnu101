@@ -61,7 +61,7 @@ Here is your *fixed, cleaner, less-wide* version — **exact same style** as you
 
 ---
 
-## 🚀 Featured Projects
+## 💡 Featured Projects
 
 ### 🌱 **IoT-Based Vertical Farming**
 
@@ -70,7 +70,7 @@ Here is your *fixed, cleaner, less-wide* version — **exact same style** as you
 > Integrated sensors + image analysis for accurate farm monitoring
 > 📌 Demonstrated strong skills in IoT, embedded systems, and image processing
 
----
+
 
 ### 🚦 **Traffic Signal Detection**
 
@@ -79,7 +79,7 @@ Here is your *fixed, cleaner, less-wide* version — **exact same style** as you
 > Optimized the pipeline for improved accuracy and stability
 > 🔍 Hands-on experience in computer vision, real-time processing, and model tuning
 
----
+
 
 ### 🤖 **AI Chatbot**
 
@@ -88,20 +88,6 @@ Here is your *fixed, cleaner, less-wide* version — **exact same style** as you
 > Designed a clean, modern UI with dynamic responses
 > 💬 Showcases full-stack development + AI integration skills
 
----
-
-If you want, I can also:
-
-✅ add left-side vertical bars exactly like your friend
-✅ match their font style and spacing even more
-✅ add subtle icons per line
-Just tell me!
-
-
-## 💡 Featured Projects
-* **IoT-Based Vertical Farming:** Prototyped a smart farming system using **Arduino, Raspberry Pi, and OpenCV** to detect ripeness levels of saffron and mushrooms, showcasing skills in IoT and Image Analysis.
-* **Traffic Signal Detection:** Built a real-time system using **Python and OpenCV** for preprocessing, contour detection, and feature extraction.
-* **AI Chatbot:** Developed an intelligent, responsive chatbot using the **Google Gemini API, React, and JavaScript**.
 
 ## 🎓 Education & Achievements
 * **Qualified GATE 2025** in Electronics and Communication Engineering (ECE).
