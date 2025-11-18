@@ -91,7 +91,8 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 
 ## 🎓 Education & Achievements
 * **Qualified GATE 2025** in Electronics and Communication Engineering (ECE).
-* **Certified:** Google Gen AI (Google Cloud), Career Essentials in Generative AI (Microsoft/LinkedIn).
+* **Certified:** Google Gen AI (Google Cloud).
+*  Career Essentials in Generative AI (Microsoft/LinkedIn).
 
 ##  📫Connect with me:
 
