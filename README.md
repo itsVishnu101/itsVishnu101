@@ -60,24 +60,53 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 | **Tools** | Git, VSCode, Jupyter, GIT workflows |
 
 ---
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white">
-Frontend / UI
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black">
-Embedded / IoT
+## 🧰 Skills & Technologies
 
-Arduino • Raspberry Pi • ESP32 • MQTT • Serial Protocols
+<div align="center">
 
-Computer Vision / ML
+<table style="border:1px solid #444; border-collapse:collapse;">
+<tr style="background:#222; color:#f0f0f0;"><th>Area</th><th>Details / Tools</th></tr>
 
-OpenCV • TensorFlow • PyTorch • Model Quantization
+<tr style="background:#111;">
+<td><b>Programming</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"> 
+<img src="https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white">
+</td>
+</tr>
 
-Simulation / EDA
+<tr style="background:#111;">
+<td><b>Frontend / UI</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+</td>
+</tr>
 
-LTspice • SPICE • Simulink • Verilog
+<tr style="background:#111;">
+<td><b>Embedded / IoT</b></td>
+<td>Arduino • Raspberry Pi • ESP32 • MQTT • Serial Protocols</td>
+</tr>
 
-Tools
+<tr style="background:#111;">
+<td><b>Computer Vision / ML</b></td>
+<td>OpenCV • TensorFlow • PyTorch • Model Quantization</td>
+</tr>
 
-Git • VSCode • Jupyter • Workflows
+<tr style="background:#111;">
+<td><b>Simulation / EDA</b></td>
+<td>LTspice • SPICE • Simulink • Verilog (VLSI basics)</td>
+</tr>
+
+<tr style="background:#111;">
+<td><b>Tools</b></td>
+<td>Git • VSCode • Jupyter • Workflows</td>
+</tr>
+
+</table>
 
 </div>
 
