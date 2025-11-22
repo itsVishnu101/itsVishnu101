@@ -81,7 +81,8 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 > 
 
 ####  ⚙️ **Control Systems Simulator**
-> An interactive web-based simulator for Control Systems Engineering, built using Python, Streamlit, Matplotlib, and the python-control library.
+
+> An interactive web-based simulator for Control Systems Engineering, built using Python, Streamlit, Matplotlib library.
 > This tool allows you to:
 > Define custom transfer functions
 > Apply PID control (Kp, Ki, Kd)
