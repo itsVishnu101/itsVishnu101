@@ -83,7 +83,7 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 
 #### ⚙️ **Control Systems Simulator**
 
-> An interactive web-based simulator for Control Systems Engineering, built using Python, Streamlit, and Matplotlib library.  
+> An interactive web-based simulator for Control Systems, built using **Python**, **Streamlit**, and **Matplotlib** library.  
 > This tool allows you to:  
 > • Define custom transfer functions  
 > • Apply PID control (Kp, Ki, Kd)  
@@ -103,7 +103,7 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 ## 🎓 Education & Achievements
 * **Qualified GATE 2025** in Electronics and Communication Engineering (ECE).
 * **Certified:** Google Gen AI (Google Cloud).
-*  Career Essentials in Generative AI (Microsoft/LinkedIn).
+*  Career Essentials in **Generative AI** (Microsoft/LinkedIn).
 
 ##  📫Connect with me:
 
