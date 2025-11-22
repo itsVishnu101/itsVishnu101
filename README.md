@@ -78,16 +78,17 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 > Implemented preprocessing, color-space filtering, and contour detection  
 > Optimized the pipeline for improved accuracy and stability  
 > 🔍 Hands-on experience in computer vision, real-time processing, and model tuning
-> 
 
-####  ⚙️ **Control Systems Simulator**
 
-> An interactive web-based simulator for Control Systems Engineering, built using Python, Streamlit, Matplotlib library.
-> This tool allows you to:
-> Define custom transfer functions
-> Apply PID control (Kp, Ki, Kd)
-> Visualize system responses: Step Response, Bode Plot, and Nyquist Plot
->  Interactively tune and analyze system behavior in real-time
+
+#### ⚙️ **Control Systems Simulator**
+
+> An interactive web-based simulator for Control Systems Engineering, built using Python, Streamlit, and Matplotlib library.  
+> This tool allows you to:  
+> • Define custom transfer functions  
+> • Apply PID control (Kp, Ki, Kd)  
+> • Visualize system responses: Step Response, Bode Plot, and Nyquist Plot  
+> • Interactively tune and analyze system behavior in real-time
 
 
 
