@@ -81,14 +81,13 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 
 
 
-#### ⚙️ **Control Systems Simulator**
+#### ⚙️ Control Systems Simulator
 
-> An interactive web-based simulator for Control Systems, built using **Python**, **Streamlit**, and **Matplotlib** library.  
-> This tool allows you to:  
-> • Define custom transfer functions  
-> • Apply PID control (Kp, Ki, Kd)  
-> • Visualize system responses: Step Response, Bode Plot, and Nyquist Plot  
-> • Interactively tune and analyze system behavior in real-time
+> Built a web-based control system simulator using Python, Streamlit, and Matplotlib  
+> • Defined custom transfer functions  
+> • Applied PID control (Kp, Ki, Kd)  
+> • Visualized Step, Bode, and Nyquist responses  
+> • Tuned and analyzed system behavior in real time
 
 
 
