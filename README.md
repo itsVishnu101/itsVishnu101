@@ -60,6 +60,27 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 | **Tools** | Git, VSCode, Jupyter, GIT workflows |
 
 ---
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white">
+Frontend / UI
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black">
+Embedded / IoT
+
+Arduino • Raspberry Pi • ESP32 • MQTT • Serial Protocols
+
+Computer Vision / ML
+
+OpenCV • TensorFlow • PyTorch • Model Quantization
+
+Simulation / EDA
+
+LTspice • SPICE • Simulink • Verilog
+
+Tools
+
+Git • VSCode • Jupyter • Workflows
+
+</div>
+
 
 ### 💡 Featured Projects
 
