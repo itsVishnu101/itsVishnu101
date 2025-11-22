@@ -60,6 +60,8 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 | **Tools** | Git, VSCode, Jupyter, GIT workflows |
 
 ---
+<div align="center"> <table style="border:1px solid #444; border-collapse:collapse;"> <tr style="background:#222; color:#f0f0f0;"><th>Area</th><th>Details / Tools</th></tr> <tr style="background:#111;"> <td><b>Programming</b></td> <td>Python • C++ • MATLAB</td> </tr> <tr style="background:#111;"> <td><b>Frontend / UI</b></td> <td>React • HTML5 • CSS • JavaScript</td> </tr> <tr style="background:#111;"> <td><b>Embedded / IoT</b></td> <td>Arduino • Raspberry Pi • ESP32 • MQTT</td> </tr> <tr style="background:#111;"> <td><b>Computer Vision / ML</b></td> <td>OpenCV • TensorFlow • PyTorch</td> </tr> <tr style="background:#111;"> <td><b>Simulation / EDA</b></td> <td>LTspice • SPICE • Simulink • Verilog</td> </tr> <tr style="background:#111;"> <td><b>Tools</b></td> <td>Git • VSCode • Jupyter</td> </tr> </table> </div>
+
 
 ### 💡 Featured Projects
 
