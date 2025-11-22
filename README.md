@@ -75,22 +75,22 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 
 <tr style="background:#111;">
 <td><b>Embedded / IoT</b></td>
-<td>Arduino • Raspberry Pi • ESP32 • MQTT • Serial Protocols</td>
+<td>Arduino, Raspberry Pi, ESP32, MQTT, Serial Protocols</td>
 </tr>
 
 <tr style="background:#111;">
 <td><b>Computer Vision / ML</b></td>
-<td>OpenCV • TensorFlow • PyTorch • Model Quantization</td>
+<td>OpenCV, TensorFlow, PyTorch, Model Quantization</td>
 </tr>
 
 <tr style="background:#111;">
 <td><b>Simulation / EDA</b></td>
-<td>LTspice • SPICE • Simulink • Verilog (VLSI basics)</td>
+<td>LTspice, SPICE, Simulink, Verilog (VLSI basics)</td>
 </tr>
 
 <tr style="background:#111;">
 <td><b>Tools</b></td>
-<td>Git • VSCode • Jupyter • Workflows</td>
+<td>Git, VSCode, Jupyter, Workflows</td>
 </tr>
 
 </table>
