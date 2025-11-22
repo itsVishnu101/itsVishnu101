@@ -61,6 +61,8 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 
 ---
 
+<div align="center"> <table> <tr><th>Area</th><th>Details / Tools</th></tr> <tr> <td><b>Programming</b></td> <td> &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/MATLAB-FF7F00?logo=mathworks&logoColor=white"> </td> </tr> <tr> <td><b>Frontend / UI</b></td> <td> &nbsp; <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/JS-F7DF1E?logo=javascript&logoColor=black"> </td> </tr> <tr> <td><b>Embedded / IoT</b></td> <td>Arduino, Raspberry Pi, ESP32, MQTT, Serial Protocols</td> </tr> <tr> <td><b>Computer Vision / ML</b></td> <td>OpenCV, TensorFlow, PyTorch, Model Quantization</td> </tr> <tr> <td><b>Simulation / EDA</b></td> <td>LTspice, SPICE, Simulink, Verilog (VLSI basics)</td> </tr> <tr> <td><b>Tools</b></td> <td>Git, VSCode, Jupyter, GIT workflows</td> </tr> </table> </div>
+
 ### 💡 Featured Projects
 
 #### 🌱 **IoT-Based Vertical Farming**
