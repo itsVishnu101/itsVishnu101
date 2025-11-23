@@ -154,3 +154,7 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
     <a href="https://www.linkedin.com/in/its-vishnu-verma/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
+ 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
