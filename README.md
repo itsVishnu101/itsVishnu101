@@ -19,9 +19,10 @@
 
 <p align="center" style="margin:0; padding:0;">
   <a href="https://github.com/itsVishnu101">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight" alt="Vishnu Verma's GitHub Stats">
+    <img src="https://github-readme-stats-git-master-orgstats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight" alt="Vishnu Verma's GitHub Stats">
   </a>
 </p>
+
 
 ### 🔥 Streak & Contribution Calendar
 
