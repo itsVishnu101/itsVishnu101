@@ -1,11 +1,10 @@
 # Hi, I'm Vishnu Verma 👋  
 > B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
 ---
-<p align="center" style="margin:0; padding:0;">
-  <a href="https://github.com/itsVishnu101">
-    <img src="https://github-readme-stats-git-master-orgstats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight" alt="Vishnu Verma's GitHub Stats">
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00c6ff&height=230&section=header&text=Hey%20👋%20I'm%20Rohan%20Sagar%20Desai!&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Embedded%20Systems%20|%20Edge%20AI%20|%20Control%20Systems&descAlignY=55&descAlign=50" alt="Rohan Sagar Desai Header"/>
 </p>
+
 
 
 ---
