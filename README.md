@@ -2,6 +2,12 @@
 > B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
 
 ---
+<!-- Banner: change the image URL to your preferred banner or remove this block -->
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-brightgreen?style=for-the-badge&logo=github" alt="Open to opportunities" />
+</p>
+
+---
 <!---
  ## 🏆 GitHub Trophies
 
