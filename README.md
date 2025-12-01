@@ -8,14 +8,40 @@
 </p>
 
 ---
+## 📊 GitHub Statistics
 
+<p align="center">
+  <a href="https://github.com/itsVishnu101">
+    <img src="https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  </a>
+</p>
+
+---
+
+## 🔥 Streak & Contribution Calendar
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=itsVishnu101&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</p>
+
+---
+
+## 🧠 Top Languages
+
+<p align="center">
+  <a href="https://github.com/itsVishnu101">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsVishnu101&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  </a>
+</p>
+<!--
  ## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itsVishnu101&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
 
-
+<!--
 ## 📊 GitHub Statistics
 
 <p align="center" style="margin:0; padding:0;">
@@ -37,7 +63,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsVishnu101&layout=compact&theme=tokyonight" alt="Top Languages">
   </a>
 </p>
-
+   --->
 ---
 
 ## Recent Activity Graph
