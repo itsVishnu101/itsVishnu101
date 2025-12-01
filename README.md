@@ -28,7 +28,7 @@
 
 <p align="center" style="margin:0; padding:0;">
   <a href="https://git.io/streak-stats">
-    <img src="https://git-hub-streak-stats.vercel.app/?user=itsVishnu101&theme=tokyonight" alt="GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight" alt="GitHub Streak">
   </a>
 </p>
 
