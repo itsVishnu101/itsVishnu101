@@ -8,13 +8,13 @@
 </p>
 
 ---
-<!---
+
  ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itsVishnu101&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
---->
+
 
 ## 📊 GitHub Statistics
 
@@ -28,7 +28,7 @@
 
 <p align="center" style="margin:0; padding:0;">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight" alt="GitHub Streak">
+    <img src="https://github-readme-streak.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight" alt="GitHub Streak">
   </a>
 </p>
 
