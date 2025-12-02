@@ -1,13 +1,3 @@
-<!-- GitHub summary stats -->
-<p align="center" style="margin:0; padding:0;">
-  <a href="https://github.com/itsVishnu101">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=itsVishnu101&show_icons=true&theme=tokyonight&count_private=true"
-      alt="Vishnu Verma's GitHub Stats" />
-  </a>
-</p>
-
-
 
 # Hi, I'm Vishnu Verma 👋  
 > B.Tech Student in Electronics and Communication Engineering at IIIT Surat.
