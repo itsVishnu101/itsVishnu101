@@ -5,7 +5,7 @@
 ---
 <!-- Banner: change the image URL to your preferred banner or remove this block -->
 <p align="center">
-  <img/giphy.gif" width="600" height="350"/>
+  <img/src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="350"/>
 </p>
 
 ---
