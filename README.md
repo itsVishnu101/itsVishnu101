@@ -37,7 +37,7 @@
 
 
 ---
-
+<!---
 ## Recent Activity Graph
 
 <p align="center">
@@ -45,7 +45,7 @@
 </p>
 
 ---
-
+--->
 
 ## ⭐ About Me
 I am an **aspiring Electronics & Communication Engineer** passionate about designing and building end-to-end systems that blend hardware and software.  
