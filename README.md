@@ -108,7 +108,7 @@ My main interests include **Embedded Systems, Signal Processing, Computer Vision
 
 #### 🌱 **IoT-Based Vertical Farming**
 
-> Prototyped an IoT-enabled smart farming system using **Arduino, Raspberry Pi**, and **OpenCV**  
+> Prototyped an IoT-enabled smart farming system using **Arduino, ESP8266**, and **OpenCV**  
 > Designed a vision-based module to detect **ripeness levels** of saffron and mushrooms  
 > Integrated sensors + image analysis for accurate farm monitoring  
 > 📌 Demonstrated strong skills in IoT, embedded systems, and image processing  
